@@ -1,11 +1,11 @@
-export const SITE_NAME = "Cyberflex Portfolio";
+export const SITE_NAME = "Mubby Portfolio";
 export const SITE_URL = "https://cyberflex-portfolio.vercel.app";
-export const EMAIL = "cyberflex.dev@gmail.com";
+export const EMAIL = "mubaraqolayiwola0@gmail.com";
 
 export const SOCIALS = {
-  github: "https://github.com/Cyb3rflex",
-  linkedin: "https://linkedin.com/in/cyberflex",
-  twitter: "https://x.com/Cyb3rflex",
+  github: "https://github.com/Mubby-hw",
+  linkedin: "https://www.linkedin.com/olayiwola-mubaraq/",
+  twitter: "https://x.com/olayiwola3406",
 };
 
 export const META = {
